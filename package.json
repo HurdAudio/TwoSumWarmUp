@@ -1,0 +1,11 @@
+{
+  "name": "twosum",
+  "version": "1.0.0",
+  "description": "warmup",
+  "main": "TwoSum.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Devin Hurd",
+  "license": "ISC"
+}
